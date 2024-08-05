@@ -10,7 +10,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documents", "documents", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22CB6510-4AF4-46B7-8E5A-BF5E120CC0F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDesignPattern", "CSharpDesignPattern\CSharpDesignPattern.csproj", "{D22179FD-B4E5-4562-97FE-327276ABA7EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDesignPattern", "CSharpDesignPattern\CSharpDesignPattern.csproj", "{D22179FD-B4E5-4562-97FE-327276ABA7EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{7F1C6CC7-9E71-40F5-8D78-AF3765F68FDB}"
+	ProjectSection(SolutionItems) = preProject
+		Strategy.md = Strategy.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +33,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D22179FD-B4E5-4562-97FE-327276ABA7EA} = {22CB6510-4AF4-46B7-8E5A-BF5E120CC0F3}
+		{7F1C6CC7-9E71-40F5-8D78-AF3765F68FDB} = {188AEFA6-538A-4202-8A12-3FB94779131F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4DF884D3-133C-4B81-974F-77179FB4AA20}

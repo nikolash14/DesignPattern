@@ -1,0 +1,15 @@
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\bin\Debug\net8.0\CSharpDesignPattern.exe
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\bin\Debug\net8.0\CSharpDesignPattern.deps.json
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\bin\Debug\net8.0\CSharpDesignPattern.runtimeconfig.json
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\bin\Debug\net8.0\CSharpDesignPattern.dll
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\bin\Debug\net8.0\CSharpDesignPattern.pdb
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.AssemblyInfoInputs.cache
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.AssemblyInfo.cs
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.csproj.CoreCompileInputs.cache
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.sourcelink.json
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.dll
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\refint\CSharpDesignPattern.dll
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.pdb
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\CSharpDesignPattern.genruntimeconfig.cache
+D:\Training\Dotnet\Core\DesignPattern\DesignPattern\CSharpDesignPattern\obj\Debug\net8.0\ref\CSharpDesignPattern.dll
