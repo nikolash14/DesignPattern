@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documents", "documents", "{188AEFA6-538A-4202-8A12-3FB94779131F}"
+	ProjectSection(SolutionItems) = preProject
+		documentation.md = documentation.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22CB6510-4AF4-46B7-8E5A-BF5E120CC0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDesignPattern", "CSharpDesignPattern\CSharpDesignPattern.csproj", "{D22179FD-B4E5-4562-97FE-327276ABA7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22179FD-B4E5-4562-97FE-327276ABA7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22179FD-B4E5-4562-97FE-327276ABA7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22179FD-B4E5-4562-97FE-327276ABA7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22179FD-B4E5-4562-97FE-327276ABA7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D22179FD-B4E5-4562-97FE-327276ABA7EA} = {22CB6510-4AF4-46B7-8E5A-BF5E120CC0F3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF884D3-133C-4B81-974F-77179FB4AA20}
+	EndGlobalSection
+EndGlobal
