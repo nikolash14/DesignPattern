@@ -26,8 +26,18 @@ Unlike other patterns, they can be used to design the architecture of an entire 
 
 In addition, all patterns can be categorized by their intent, or purpose.
 
-** Creational ** patterns provide object creation mechanisms that increase flexibility and reuse of existing code.
+**Creational** patterns provide object creation mechanisms that increase flexibility and reuse of existing code.
 
-** Structural ** patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+**Structural** patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
-** Behavioral ** patterns take care of effective communication and the assignment of responsibilities between objects.
+**Behavioral** patterns take care of effective communication and the assignment of responsibilities between objects.
+
+## Behavioral
+**1. Strategy Pattern**
+**2. Command Pattern**
+**3. Observer Pattern**
+
+## Structural
+
+
+## Creational
